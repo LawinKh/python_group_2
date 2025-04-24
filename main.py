@@ -29,7 +29,7 @@ def is_strong_password(password):
 
 # Password generator function (optional)
 def generate_password(length):
-     """
+    """
     Generate a random strong password of the specified length.
 
     Args:
